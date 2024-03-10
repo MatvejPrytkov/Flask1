@@ -1,15 +1,21 @@
 *env/
 .vscode/
 <<<<<<< HEAD
+<<<<<<< HEAD
 .idea/
 *.pyc
 __pycache__/
 .DS_Store/
 =======
+=======
+>>>>>>> f9c026904214ddff2ec9573089ee0c475ab2c7e8
 .idea
 *.pyc
 __pycache__/
 DS_Store/
+<<<<<<< HEAD
 >>>>>>> 8197cb1 (Initial commit)
+=======
+>>>>>>> f9c026904214ddff2ec9573089ee0c475ab2c7e8
 *.db
 *.code-workspace
