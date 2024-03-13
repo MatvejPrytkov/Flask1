@@ -4,32 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-<<<<<<< HEAD
-<<<<<<< HEAD
-flask = "*"
-httpie = "*"
-python-dotenv = "*"
-faker = "*"
-flask-sqlalchemy = "*"
-flask-migrate = "*"
-flask-marshmallow = "*"
-marshmallow-sqlalchemy = "*"
-
-[dev-packages]
-ruff = "*"
-
-[requires]
-python_version = "3.10"
-python_full_version = "3.10.12"
-=======
-=======
->>>>>>> f9c026904214ddff2ec9573089ee0c475ab2c7e8
+flask-httpauth = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.10"
-<<<<<<< HEAD
->>>>>>> 8197cb1 (Initial commit)
-=======
->>>>>>> f9c026904214ddff2ec9573089ee0c475ab2c7e8
